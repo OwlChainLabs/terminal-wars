@@ -12,7 +12,7 @@ which solana trading terminal is printing the most from traders?
 ## how it works
 
 a github action runs once a day, pulls daily revenue per protocol from the free [defillama](https://defillama.com) api,
-keeps only the solana part and writes `data.json`. the page is plain html that reads that file. no server, no keys.
+keeps only the solana part and writes `public/data.json` plus a share image `public/og.png`. the page in `public/` is plain html that reads that file. no server, no keys.
 
 ```bash
 node scripts/update.mjs   # refresh data.json locally (node 20+)

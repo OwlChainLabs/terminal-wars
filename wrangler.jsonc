@@ -1,0 +1,6 @@
+{
+  "name": "terminal-wars",
+  "compatibility_date": "2026-10-06",
+  // only the website folder is published, never scripts or node_modules
+  "assets": { "directory": "./public" }
+}

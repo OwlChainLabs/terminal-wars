@@ -117,15 +117,15 @@ async function main() {
     source: "defillama, daily revenue, solana chain only",
     terminals: terminals.sort((a, b) => b.d1 - a.d1),
   };
-  await writeFile(new URL("../data.json", import.meta.url), JSON.stringify(out, null, 1));
+  await writeFile(new URL("../public/data.json", import.meta.url), JSON.stringify(out, null, 1));
   console.log(`wrote ${terminals.length} terminals`);
 
   // share image for link previews on x, plus a cache-busting version in the page meta
   try {
     const png = await renderCard(out);
-    await writeFile(new URL("../og.png", import.meta.url), png);
+    await writeFile(new URL("../public/og.png", import.meta.url), png);
     const day = out.terminals.find((t) => !t.stale)?.lastDay ?? "";
-    const htmlUrl = new URL("../index.html", import.meta.url);
+    const htmlUrl = new URL("../public/index.html", import.meta.url);
     const html = await readFile(htmlUrl, "utf8");
     await writeFile(htmlUrl, html.replace(/og\.png\?v=[^"]*/g, `og.png?v=${day}`));
     console.log("wrote og.png");
