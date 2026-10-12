@@ -1,6 +1,7 @@
 // Builds data.json: solana-only daily revenue of trading terminals and bots,
 // from the free DefiLlama api. Runs once a day in GitHub Actions.
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
+import { renderCard } from "./card.mjs";
 
 const API = "https://api.llama.fi";
 const CATEGORIES = new Set(["Trading App", "Telegram Bot"]);
@@ -44,6 +45,21 @@ async function main() {
   );
   console.log(`candidates: ${candidates.map((p) => p.name).join(", ")}`);
 
+  // official x handles, as listed by defillama (not guessed)
+  const protocols = (await getJson(`${API}/protocols`)) ?? [];
+  const handleByName = new Map();
+  for (const pr of protocols) {
+    if (pr?.twitter) {
+      handleByName.set(String(pr.name).toLowerCase(), pr.twitter);
+      if (pr.slug) handleByName.set(String(pr.slug).toLowerCase(), pr.twitter);
+    }
+  }
+  const handleFor = (p) =>
+    handleByName.get(String(p.slug ?? "").toLowerCase()) ??
+    handleByName.get(String(p.name ?? "").toLowerCase()) ??
+    (p.parentProtocol ? handleByName.get(String(p.parentProtocol).replace(/^parent#/, "").toLowerCase()) : undefined) ??
+    null;
+
   const today = Math.floor(Date.now() / 1000 / DAY) * DAY;
   const terminals = [];
 
@@ -78,6 +94,7 @@ async function main() {
       slug,
       category: p.category,
       logo: p.logo ?? null,
+      twitter: handleFor(p),
       stale,
       lastDay: new Date(last.t * 1000).toISOString().slice(0, 10),
       d1, d1prev, d7, d7prev, d30, d30prev,
@@ -102,6 +119,19 @@ async function main() {
   };
   await writeFile(new URL("../data.json", import.meta.url), JSON.stringify(out, null, 1));
   console.log(`wrote ${terminals.length} terminals`);
+
+  // share image for link previews on x, plus a cache-busting version in the page meta
+  try {
+    const png = await renderCard(out);
+    await writeFile(new URL("../og.png", import.meta.url), png);
+    const day = out.terminals.find((t) => !t.stale)?.lastDay ?? "";
+    const htmlUrl = new URL("../index.html", import.meta.url);
+    const html = await readFile(htmlUrl, "utf8");
+    await writeFile(htmlUrl, html.replace(/og\.png\?v=[^"]*/g, `og.png?v=${day}`));
+    console.log("wrote og.png");
+  } catch (err) {
+    console.warn("share image failed, data is still updated:", err.message);
+  }
 }
 
 main().catch((err) => {

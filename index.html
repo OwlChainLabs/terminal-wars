@@ -9,6 +9,8 @@
   <meta property="og:title" content="terminal wars">
   <meta property="og:description" content="which solana trading terminal makes the most from you? daily leaderboard.">
   <meta property="og:url" content="https://wars.owlchainlabs.xyz">
+  <meta property="og:image" content="https://wars.owlchainlabs.xyz/og.png?v=0">
+  <meta name="twitter:image" content="https://wars.owlchainlabs.xyz/og.png?v=0">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@OwlChainLabs">
   <style>
@@ -211,8 +213,17 @@ function render() {
 function shareText() {
   const list = ranked().slice(0, 5);
   const medals = ["🥇", "🥈", "🥉", "4.", "5."];
-  const lines = list.map((t, i) => `${medals[i]} ${t.name} ${usd(t[period])}`).join("\n");
-  return `terminal wars ⚔️ solana revenue, last ${LABEL[period]}\n\n${lines}\n\nwho's printing from you?\nwars.owlchainlabs.xyz`;
+  // tag only the winner: gets their attention without looking like spam
+  const lines = list.map((t, i) => `${medals[i]} ${i === 0 && t.twitter ? "@" + t.twitter.replace(/^@/, "") : t.name} ${usd(t[period])}`).join("\n");
+  const leaderChanged = period === "d1" && list[0] && (list[0].rankChange ?? 0) > 0;
+  const hook = leaderChanged ? `new #1 on solana: ${list[0].name} 👑` : `who's printing the most from solana traders? ⚔️`;
+  return `${hook}\n\nlast ${LABEL[period]}, solana only:\n${lines}\n\n`;
+}
+
+function shareUrl() {
+  // a new day gets a new url, so x fetches a fresh preview card
+  const day = DATA.terminals.find((t) => !t.stale)?.lastDay ?? "";
+  return `https://wars.owlchainlabs.xyz/?d=${day}`;
 }
 
 function drawImage() {
@@ -247,7 +258,7 @@ document.getElementById("tabs").addEventListener("click", (e) => {
 });
 document.getElementById("post").addEventListener("click", () => {
   if (!DATA) return;
-  window.open(`https://x.com/intent/post?text=${encodeURIComponent(shareText())}`, "_blank", "noopener");
+  window.open(`https://x.com/intent/post?text=${encodeURIComponent(shareText())}&url=${encodeURIComponent(shareUrl())}`, "_blank", "noopener");
 });
 document.getElementById("download").addEventListener("click", () => {
   if (!DATA) return;
