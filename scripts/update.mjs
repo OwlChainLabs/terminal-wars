@@ -58,7 +58,7 @@ async function main() {
     // daily solana values, oldest first, last 60 days
     const days = breakdown
       .map(([ts, entry]) => ({ t: Number(ts), v: Math.max(0, solanaValue(entry)) }))
-      .filter((d) => d.t >= today - 60 * DAY)
+      .filter((d) => d.t >= today - 60 * DAY && d.t < today) // only finished days
       .sort((a, b) => a.t - b.t);
     if (days.length === 0) continue;
 
