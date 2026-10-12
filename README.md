@@ -4,6 +4,8 @@ which solana trading terminal is printing the most from traders?
 
 **live: [wars.owlchainlabs.xyz](https://wars.owlchainlabs.xyz)**
 
+![terminal-wars demo](./docs/demo.gif)
+
 - daily revenue leaderboard of solana trading terminals and bots (axiom, gmgn, photon, trojan, ...)
 - solana chain only, so multi-chain terminals are compared fairly
 - 24h, 7d and 30d views, rank changes, 30 day trend
