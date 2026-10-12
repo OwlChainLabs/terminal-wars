@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T07:30:09.708Z",
+ "updatedAt": "2026-10-12T07:31:55.451Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -243,14 +243,15 @@
    "category": "Trading App",
    "logo": "https://icons.llamao.fi/icons/protocols/photon",
    "stale": false,
-   "lastDay": "2026-10-12",
-   "d1": 9836,
-   "d1prev": 10007,
-   "d7": 82365,
-   "d7prev": 102748,
-   "d30": 368292,
-   "d30prev": 621507,
+   "lastDay": "2026-10-11",
+   "d1": 10007,
+   "d1prev": 8490,
+   "d7": 86997,
+   "d7prev": 106085,
+   "d30": 364734,
+   "d30prev": 642118,
    "spark": [
+    6278,
     6935,
     10154,
     9659,
@@ -279,8 +280,7 @@
     12983,
     10973,
     8490,
-    10007,
-    9836
+    10007
    ],
    "rankChange": 0
   },
@@ -611,7 +611,7 @@
     1023,
     656
    ],
-   "rankChange": 0
+   "rankChange": 1
   },
   {
    "name": "MEVX",
@@ -619,14 +619,15 @@
    "category": "Telegram Bot",
    "logo": "https://icons.llamao.fi/icons/protocols/mevx",
    "stale": false,
-   "lastDay": "2026-10-12",
-   "d1": 644,
-   "d1prev": 629,
-   "d7": 6359,
-   "d7prev": 6841,
-   "d30": 35828,
-   "d30prev": 46530,
+   "lastDay": "2026-10-11",
+   "d1": 629,
+   "d1prev": 1136,
+   "d7": 6724,
+   "d7prev": 6363,
+   "d30": 35629,
+   "d30prev": 47518,
    "spark": [
+    445,
     337,
     6300,
     6414,
@@ -655,10 +656,9 @@
     1083,
     772,
     1136,
-    629,
-    644
+    629
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "RayBot",
@@ -666,14 +666,15 @@
    "category": "Telegram Bot",
    "logo": "https://icons.llamao.fi/icons/protocols/raybot",
    "stale": false,
-   "lastDay": "2026-10-12",
-   "d1": 431,
-   "d1prev": 372,
-   "d7": 4475,
-   "d7prev": 6223,
-   "d30": 28836,
-   "d30prev": 32960,
+   "lastDay": "2026-10-11",
+   "d1": 372,
+   "d1prev": 663,
+   "d7": 5193,
+   "d7prev": 5755,
+   "d30": 29480,
+   "d30prev": 32532,
    "spark": [
+    1075,
     541,
     953,
     737,
@@ -702,8 +703,7 @@
     574,
     727,
     663,
-    372,
-    431
+    372
    ],
    "rankChange": 0
   },
