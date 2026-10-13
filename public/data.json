@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T02:38:38.866Z",
+ "updatedAt": "2026-10-13T10:44:13.542Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -153,15 +153,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/terminal",
    "twitter": "Pumpfun",
    "stale": false,
-   "lastDay": "2026-10-11",
-   "d1": 80438,
-   "d1prev": 77392,
-   "d7": 646650,
-   "d7prev": 721116,
-   "d30": 2864219,
-   "d30prev": 2655192,
+   "lastDay": "2026-10-12",
+   "d1": 78041,
+   "d1prev": 80438,
+   "d7": 612950,
+   "d7prev": 732375,
+   "d30": 2855999,
+   "d30prev": 2741453,
    "spark": [
-    86261,
     83283,
     89668,
     85365,
@@ -190,7 +189,8 @@
     78594,
     89875,
     77392,
-    80438
+    80438,
+    78041
    ],
    "rankChange": 0
   },
@@ -201,15 +201,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/trojan",
    "twitter": "TrojanOnSolana",
    "stale": false,
-   "lastDay": "2026-10-11",
-   "d1": 20873,
-   "d1prev": 19184,
-   "d7": 164661,
-   "d7prev": 197828,
-   "d30": 835624,
-   "d30prev": 854305,
+   "lastDay": "2026-10-12",
+   "d1": 20050,
+   "d1prev": 20873,
+   "d7": 154887,
+   "d7prev": 197660,
+   "d30": 832151,
+   "d30prev": 877828,
    "spark": [
-    23523,
     24514,
     23391,
     24218,
@@ -238,7 +237,8 @@
     23529,
     20902,
     19184,
-    20873
+    20873,
+    20050
    ],
    "rankChange": 0
   },
@@ -250,11 +250,11 @@
    "twitter": "tradewithPhoton",
    "stale": false,
    "lastDay": "2026-10-12",
-   "d1": 11112,
+   "d1": 11088,
    "d1prev": 10007,
-   "d7": 83641,
+   "d7": 83617,
    "d7prev": 102748,
-   "d30": 369568,
+   "d30": 369544,
    "d30prev": 621507,
    "spark": [
     6935,
@@ -286,7 +286,7 @@
     10973,
     8490,
     10007,
-    11112
+    11088
    ],
    "rankChange": 0
   },
@@ -345,15 +345,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/moonshot.money",
    "twitter": "moonshot",
    "stale": false,
-   "lastDay": "2026-10-11",
-   "d1": 4733,
-   "d1prev": 4432,
-   "d7": 30227,
-   "d7prev": 44049,
-   "d30": 164462,
-   "d30prev": 289709,
+   "lastDay": "2026-10-12",
+   "d1": 3125,
+   "d1prev": 4733,
+   "d7": 27777,
+   "d7prev": 45137,
+   "d30": 162468,
+   "d30prev": 294828,
    "spark": [
-    5119,
     5243,
     3531,
     1858,
@@ -382,7 +381,8 @@
     4449,
     5230,
     4432,
-    4733
+    4733,
+    3125
    ],
    "rankChange": 0
   },
@@ -576,7 +576,7 @@
     974,
     907
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "MEVX",
@@ -633,15 +633,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/telemetry",
    "twitter": "bonkbot_io",
    "stale": false,
-   "lastDay": "2026-10-11",
-   "d1": 656,
-   "d1prev": 1023,
-   "d7": 5342,
-   "d7prev": 5621,
-   "d30": 25883,
-   "d30prev": 22143,
+   "lastDay": "2026-10-12",
+   "d1": 695,
+   "d1prev": 656,
+   "d7": 4997,
+   "d7prev": 5578,
+   "d30": 25583,
+   "d30prev": 23138,
    "spark": [
-    995,
     1054,
     1176,
     877,
@@ -670,9 +669,10 @@
     504,
     751,
     1023,
-    656
+    656,
+    695
    ],
-   "rankChange": -2
+   "rankChange": -1
   },
   {
    "name": "RayBot",
@@ -729,15 +729,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/banana-gun",
    "twitter": "BananaGun",
    "stale": false,
-   "lastDay": "2026-10-11",
-   "d1": 74,
-   "d1prev": 99,
-   "d7": 801,
-   "d7prev": 1009,
-   "d30": 4072,
-   "d30prev": 2408.2,
+   "lastDay": "2026-10-12",
+   "d1": 63,
+   "d1prev": 74,
+   "d7": 761,
+   "d7prev": 1046,
+   "d30": 4057,
+   "d30prev": 2486.2,
    "spark": [
-    78,
     49,
     151,
     45,
@@ -766,7 +765,8 @@
     341,
     51,
     99,
-    74
+    74,
+    63
    ],
    "rankChange": 1
   },
