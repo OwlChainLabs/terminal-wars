@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T08:49:58.748Z",
+ "updatedAt": "2026-10-14T14:34:09.527Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-12",
-   "d1": 297488,
-   "d1prev": 290151,
-   "d7": 2481756,
-   "d7prev": 3605423,
-   "d30": 13576779,
-   "d30prev": 9408196,
+   "lastDay": "2026-10-13",
+   "d1": 256766,
+   "d1prev": 297441,
+   "d7": 2281044,
+   "d7prev": 3552356,
+   "d30": 13432902,
+   "d30prev": 9808798,
    "spark": [
-    400602,
     350845,
     388148,
     435078,
@@ -93,8 +92,9 @@
     380507,
     342047,
     328468,
-    290151,
-    297488
+    290157,
+    297441,
+    256766
    ],
    "rankChange": 0
   },
@@ -441,15 +441,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copyfomo",
    "stale": false,
-   "lastDay": "2026-10-12",
-   "d1": 1531,
-   "d1prev": 1149,
-   "d7": 10028,
-   "d7prev": 167,
-   "d30": 11125,
+   "lastDay": "2026-10-13",
+   "d1": 1029,
+   "d1prev": 1531,
+   "d7": 9270,
+   "d7prev": 1954,
+   "d30": 12154,
    "d30prev": 155.37,
    "spark": [
-    0,
     0,
     0,
     0,
@@ -478,7 +477,8 @@
     1272,
     1195,
     1149,
-    1531
+    1531,
+    1029
    ],
    "rankChange": 1
   },
