@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T10:52:12.852Z",
+ "updatedAt": "2026-10-17T15:41:34.949Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-15",
-   "d1": 253748,
-   "d1prev": 248091,
-   "d7": 2016750,
-   "d7prev": 3303857,
-   "d30": 13195780,
-   "d30prev": 9970023,
+   "lastDay": "2026-10-16",
+   "d1": 298355,
+   "d1prev": 253693,
+   "d7": 1973003,
+   "d7prev": 3063205,
+   "d30": 13059002,
+   "d30prev": 10405101,
    "spark": [
-    435078,
     480858,
     501758,
     471806,
@@ -94,7 +93,8 @@
     297441,
     256798,
     248091,
-    253748
+    253693,
+    298355
    ],
    "rankChange": 0
   },
@@ -432,7 +432,7 @@
     641,
     1423
    ],
-   "rankChange": 3
+   "rankChange": 2
   },
   {
    "name": "Ave.ai",
@@ -483,6 +483,54 @@
    "rankChange": -1
   },
   {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copyfomo",
+   "stale": false,
+   "lastDay": "2026-10-16",
+   "d1": 792,
+   "d1prev": 122,
+   "d7": 6607,
+   "d7prev": 6153,
+   "d30": 13857,
+   "d30prev": 155.37,
+   "spark": [
+    0,
+    0,
+    0,
+    50,
+    89,
+    0,
+    135,
+    133,
+    0,
+    198,
+    325,
+    0,
+    0,
+    0,
+    0,
+    167,
+    0,
+    0,
+    0,
+    1787,
+    1613,
+    1481,
+    1272,
+    1195,
+    1149,
+    1531,
+    1029,
+    789,
+    122,
+    792
+   ],
+   "rankChange": 4
+  },
+  {
    "name": "RayBot",
    "slug": "raybot",
    "category": "Telegram Bot",
@@ -528,7 +576,7 @@
     728,
     560
    ],
-   "rankChange": 0
+   "rankChange": -2
   },
   {
    "name": "FomoMCP",
@@ -560,7 +608,7 @@
     289,
     508
    ],
-   "rankChange": 3
+   "rankChange": 1
   },
   {
    "name": "SolTradingBot",
@@ -608,7 +656,7 @@
     111,
     487
    ],
-   "rankChange": 3
+   "rankChange": 2
   },
   {
    "name": "MEVX",
@@ -656,7 +704,7 @@
     556,
     480
    ],
-   "rankChange": -1
+   "rankChange": -3
   },
   {
    "name": "Telemetry",
@@ -704,55 +752,7 @@
     533,
     408
    ],
-   "rankChange": -1
-  },
-  {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copyfomo",
-   "stale": false,
-   "lastDay": "2026-10-15",
-   "d1": 122,
-   "d1prev": 789,
-   "d7": 7087,
-   "d7prev": 5048,
-   "d30": 13065,
-   "d30prev": 155.37,
-   "spark": [
-    0,
-    0,
-    0,
-    0,
-    50,
-    89,
-    0,
-    135,
-    133,
-    0,
-    198,
-    325,
-    0,
-    0,
-    0,
-    0,
-    167,
-    0,
-    0,
-    0,
-    1787,
-    1613,
-    1481,
-    1272,
-    1195,
-    1149,
-    1531,
-    1029,
-    789,
-    122
-   ],
-   "rankChange": -6
+   "rankChange": -3
   },
   {
    "name": "Banana Gun",
