@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T04:42:25.498Z",
+ "updatedAt": "2026-10-18T11:17:27.921Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-16",
-   "d1": 298355,
-   "d1prev": 253693,
-   "d7": 1973003,
-   "d7prev": 3063205,
-   "d30": 13059002,
-   "d30prev": 10156425,
+   "lastDay": "2026-10-17",
+   "d1": 225248,
+   "d1prev": 298355,
+   "d7": 1869783,
+   "d7prev": 2947682,
+   "d30": 12803392,
+   "d30prev": 10637283,
    "spark": [
-    480858,
     501758,
     471806,
     443468,
@@ -94,7 +93,8 @@
     256798,
     248091,
     253693,
-    298355
+    298355,
+    225248
    ],
    "rankChange": 0
   },
@@ -435,54 +435,6 @@
    "rankChange": 1
   },
   {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copyfomo",
-   "stale": false,
-   "lastDay": "2026-10-16",
-   "d1": 792,
-   "d1prev": 122,
-   "d7": 6607,
-   "d7prev": 6153,
-   "d30": 13857,
-   "d30prev": 155.37,
-   "spark": [
-    0,
-    0,
-    0,
-    50,
-    89,
-    0,
-    135,
-    133,
-    0,
-    198,
-    325,
-    0,
-    0,
-    0,
-    0,
-    167,
-    0,
-    0,
-    0,
-    1787,
-    1613,
-    1481,
-    1272,
-    1195,
-    1149,
-    1531,
-    1029,
-    789,
-    122,
-    792
-   ],
-   "rankChange": 6
-  },
-  {
    "name": "BONKbot",
    "slug": "bonkbot",
    "category": "Telegram Bot",
@@ -528,7 +480,55 @@
     1423,
     786
    ],
-   "rankChange": -2
+   "rankChange": -1
+  },
+  {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copyfomo",
+   "stale": false,
+   "lastDay": "2026-10-17",
+   "d1": 623,
+   "d1prev": 792,
+   "d7": 6035,
+   "d7prev": 7348,
+   "d30": 14480,
+   "d30prev": 155.37,
+   "spark": [
+    0,
+    0,
+    50,
+    89,
+    0,
+    135,
+    133,
+    0,
+    198,
+    325,
+    0,
+    0,
+    0,
+    0,
+    167,
+    0,
+    0,
+    0,
+    1787,
+    1613,
+    1481,
+    1272,
+    1195,
+    1149,
+    1531,
+    1029,
+    789,
+    122,
+    792,
+    623
+   ],
+   "rankChange": 0
   },
   {
    "name": "MEVX",
@@ -576,7 +576,7 @@
     480,
     574
    ],
-   "rankChange": 2
+   "rankChange": 3
   },
   {
    "name": "RayBot",
@@ -624,7 +624,7 @@
     560,
     533
    ],
-   "rankChange": -2
+   "rankChange": -1
   },
   {
    "name": "SolTradingBot",
@@ -672,7 +672,7 @@
     487,
     447
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "Telemetry",
@@ -720,7 +720,7 @@
     408,
     409
    ],
-   "rankChange": 0
+   "rankChange": 1
   },
   {
    "name": "FomoMCP",
@@ -753,7 +753,7 @@
     508,
     380
    ],
-   "rankChange": -4
+   "rankChange": -3
   },
   {
    "name": "Banana Gun",
