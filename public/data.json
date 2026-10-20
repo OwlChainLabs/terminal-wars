@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T20:37:46.532Z",
+ "updatedAt": "2026-10-20T00:35:35.620Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -15,7 +15,7 @@
    "d7": 2710034,
    "d7prev": 3667915,
    "d30": 15208036,
-   "d30prev": 14611010,
+   "d30prev": 14118227,
    "spark": [
     0,
     484575,
@@ -63,7 +63,7 @@
    "d7": 1802863,
    "d7prev": 2654801,
    "d30": 12524871,
-   "d30prev": 10816543,
+   "d30prev": 10553711,
    "spark": [
     471806,
     443468,
@@ -111,7 +111,7 @@
    "d7": 684925,
    "d7prev": 1079204,
    "d30": 4935772,
-   "d30prev": 3839289,
+   "d30prev": 3808973,
    "spark": [
     168881,
     181098,
@@ -159,7 +159,7 @@
    "d7": 463008,
    "d7prev": 646432,
    "d30": 2701946,
-   "d30prev": 2762266,
+   "d30prev": 2667947,
    "spark": [
     88937,
     75213,
@@ -207,7 +207,7 @@
    "d7": 117058,
    "d7prev": 164661,
    "d30": 769991,
-   "d30prev": 866252,
+   "d30prev": 840542,
    "spark": [
     31701,
     33262,
@@ -249,15 +249,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/photon",
    "twitter": "tradewithPhoton",
    "stale": false,
-   "lastDay": "2026-10-18",
-   "d1": 7421,
-   "d1prev": 6768,
-   "d7": 61950,
-   "d7prev": 86997,
-   "d30": 358767,
-   "d30prev": 550206,
+   "lastDay": "2026-10-19",
+   "d1": 9500,
+   "d1prev": 7421,
+   "d7": 60362,
+   "d7prev": 83617,
+   "d30": 359594,
+   "d30prev": 532922,
    "spark": [
-    8673,
     9605,
     12528,
     11457,
@@ -286,7 +285,8 @@
     8990,
     10102,
     6768,
-    7421
+    7421,
+    9500
    ],
    "rankChange": 0
   },
@@ -303,7 +303,7 @@
    "d7": 43409,
    "d7prev": 55709,
    "d30": 250825,
-   "d30prev": 223663,
+   "d30prev": 218287,
    "spark": [
     9964,
     9341,
@@ -351,7 +351,7 @@
    "d7": 21632,
    "d7prev": 30227,
    "d30": 145671,
-   "d30prev": 293874,
+   "d30prev": 287887,
    "spark": [
     4646,
     4617,
@@ -399,7 +399,7 @@
    "d7": 10314,
    "d7prev": 13128,
    "d30": 52984,
-   "d30prev": 16775,
+   "d30prev": 16383,
    "spark": [
     1827,
     1651,
@@ -543,7 +543,7 @@
    "d7": 3950,
    "d7prev": 5342,
    "d30": 23217,
-   "d30prev": 24763,
+   "d30prev": 23980,
    "spark": [
     735,
     1069,
@@ -576,7 +576,42 @@
     409,
     608
    ],
-   "rankChange": 3
+   "rankChange": 1
+  },
+  {
+   "name": "FomoMCP",
+   "slug": "fomomcp",
+   "category": "Trading App",
+   "logo": "https://icons.llamao.fi/icons/protocols/fomomcp",
+   "twitter": "FomoMCP",
+   "stale": false,
+   "lastDay": "2026-10-19",
+   "d1": 539,
+   "d1prev": 406,
+   "d7": 2617,
+   "d7prev": 406.45,
+   "d30": 3061.9700000000003,
+   "d30prev": 0,
+   "spark": [
+    23.16,
+    14.86,
+    0.5,
+    4.27,
+    4.67,
+    19.54,
+    26.13,
+    46.04,
+    90.8,
+    215,
+    219,
+    276,
+    289,
+    508,
+    380,
+    406,
+    539
+   ],
+   "rankChange": 1
   },
   {
    "name": "SolTradingBot",
@@ -591,7 +626,7 @@
    "d7": 3326,
    "d7prev": 6195,
    "d30": 21337,
-   "d30prev": 28724,
+   "d30prev": 27526,
    "spark": [
     418,
     352,
@@ -624,41 +659,7 @@
     447,
     470
    ],
-   "rankChange": 1
-  },
-  {
-   "name": "FomoMCP",
-   "slug": "fomomcp",
-   "category": "Trading App",
-   "logo": "https://icons.llamao.fi/icons/protocols/fomomcp",
-   "twitter": "FomoMCP",
-   "stale": false,
-   "lastDay": "2026-10-18",
-   "d1": 406,
-   "d1prev": 380,
-   "d7": 2293,
-   "d7prev": 191.95,
-   "d30": 2522.9700000000003,
-   "d30prev": 0,
-   "spark": [
-    23.16,
-    14.86,
-    0.5,
-    4.27,
-    4.67,
-    19.54,
-    26.13,
-    46.04,
-    90.8,
-    215,
-    219,
-    276,
-    289,
-    508,
-    380,
-    406
-   ],
-   "rankChange": 2
+   "rankChange": -2
   },
   {
    "name": "MEVX",
@@ -667,15 +668,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/mevx",
    "twitter": "MevX_Official",
    "stale": false,
-   "lastDay": "2026-10-18",
-   "d1": 380,
-   "d1prev": 574,
-   "d7": 4542,
-   "d7prev": 6724,
-   "d30": 24864,
-   "d30prev": 53857,
+   "lastDay": "2026-10-19",
+   "d1": 464,
+   "d1prev": 380,
+   "d7": 4121,
+   "d7prev": 6600,
+   "d30": 24721,
+   "d30prev": 53047,
    "spark": [
-    607,
     562,
     2525,
     598,
@@ -704,9 +704,10 @@
     556,
     480,
     574,
-    380
+    380,
+    464
    ],
-   "rankChange": -3
+   "rankChange": 0
   },
   {
    "name": "RayBot",
@@ -715,15 +716,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/raybot",
    "twitter": "RayBot_sol",
    "stale": false,
-   "lastDay": "2026-10-18",
-   "d1": 359,
-   "d1prev": 533,
-   "d7": 4206,
-   "d7prev": 5193,
-   "d30": 27006,
-   "d30prev": 32292,
+   "lastDay": "2026-10-19",
+   "d1": 116,
+   "d1prev": 359,
+   "d7": 3881,
+   "d7prev": 4485,
+   "d30": 26235,
+   "d30prev": 31997,
    "spark": [
-    887,
     1138,
     1838,
     2581,
@@ -752,9 +752,10 @@
     728,
     560,
     533,
-    359
+    359,
+    116
    ],
-   "rankChange": -3
+   "rankChange": 0
   },
   {
    "name": "Maxbid",
@@ -769,7 +770,7 @@
    "d7": 501,
    "d7prev": 1978,
    "d30": 8479,
-   "d30prev": 8878.53,
+   "d30prev": 8805.53,
    "spark": [
     1218,
     210,
@@ -817,7 +818,7 @@
    "d7": 388.38,
    "d7prev": 801,
    "d30": 3901.38,
-   "d30prev": 2638,
+   "d30prev": 2593,
    "spark": [
     253,
     180,
