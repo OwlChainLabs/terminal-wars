@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T04:58:04.676Z",
+ "updatedAt": "2026-10-22T12:02:38.427Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-20",
-   "d1": 252110,
-   "d1prev": 239610,
-   "d7": 1740330,
-   "d7prev": 2281076,
-   "d30": 12101303,
-   "d30prev": 10947254,
+   "lastDay": "2026-10-21",
+   "d1": 275797,
+   "d1prev": 252110,
+   "d7": 1768036,
+   "d7prev": 2143509,
+   "d30": 11831459,
+   "d30prev": 11492895,
    "spark": [
-    545641,
     468684,
     480473,
     478513,
@@ -94,7 +93,8 @@
     225281,
     223083,
     239610,
-    252110
+    252110,
+    275797
    ],
    "rankChange": 0
   },
@@ -480,7 +480,7 @@
     552,
     883
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "BONKbot",
@@ -531,6 +531,54 @@
    "rankChange": 5
   },
   {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copyfomo",
+   "stale": false,
+   "lastDay": "2026-10-21",
+   "d1": 863,
+   "d1prev": 404,
+   "d7": 4642,
+   "d7prev": 8446,
+   "d30": 17446,
+   "d30prev": 294.37,
+   "spark": [
+    0,
+    135,
+    133,
+    0,
+    198,
+    325,
+    0,
+    0,
+    0,
+    0,
+    167,
+    0,
+    0,
+    0,
+    1787,
+    1613,
+    1481,
+    1272,
+    1195,
+    1149,
+    1531,
+    1029,
+    789,
+    122,
+    792,
+    623,
+    946,
+    892,
+    404,
+    863
+   ],
+   "rankChange": 2
+  },
+  {
    "name": "MEVX",
    "slug": "mevx",
    "category": "Telegram Bot",
@@ -576,7 +624,7 @@
     400,
     578
    ],
-   "rankChange": 3
+   "rankChange": 2
   },
   {
    "name": "RayBot",
@@ -623,54 +671,6 @@
     116,
     880,
     476
-   ],
-   "rankChange": -2
-  },
-  {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copyfomo",
-   "stale": false,
-   "lastDay": "2026-10-20",
-   "d1": 404,
-   "d1prev": 892,
-   "d7": 4568,
-   "d7prev": 9270,
-   "d30": 16672,
-   "d30prev": 205.37,
-   "spark": [
-    89,
-    0,
-    135,
-    133,
-    0,
-    198,
-    325,
-    0,
-    0,
-    0,
-    0,
-    167,
-    0,
-    0,
-    0,
-    1787,
-    1613,
-    1481,
-    1272,
-    1195,
-    1149,
-    1531,
-    1029,
-    789,
-    122,
-    792,
-    623,
-    946,
-    892,
-    404
    ],
    "rankChange": -4
   },
@@ -720,7 +720,7 @@
     537,
     384
    ],
-   "rankChange": -2
+   "rankChange": -3
   },
   {
    "name": "FomoMCP",
@@ -757,7 +757,7 @@
     434,
     316
    ],
-   "rankChange": -2
+   "rankChange": -3
   },
   {
    "name": "Banana Gun",
