@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T04:44:45.855Z",
+ "updatedAt": "2026-10-24T11:11:29.738Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-22",
-   "d1": 237228,
-   "d1prev": 275809,
-   "d7": 1751676,
-   "d7prev": 2016695,
-   "d30": 11600108,
-   "d30prev": 11263814,
+   "lastDay": "2026-10-23",
+   "d1": 230424,
+   "d1prev": 237228,
+   "d7": 1683638,
+   "d7prev": 1973110,
+   "d30": 11350059,
+   "d30prev": 11744287,
    "spark": [
-    480473,
     478513,
     466638,
     680277,
@@ -94,7 +93,8 @@
     239610,
     252203,
     275809,
-    237228
+    237228,
+    230424
    ],
    "rankChange": 0
   },
@@ -432,7 +432,7 @@
     821,
     1095
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "Ave.ai",
@@ -528,7 +528,7 @@
     710,
     495
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "MEVX",
@@ -576,7 +576,7 @@
     603,
     403
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "Telemetry",
@@ -633,15 +633,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copyfomo",
    "stale": false,
-   "lastDay": "2026-10-22",
-   "d1": 310,
-   "d1prev": 863,
-   "d7": 4830,
-   "d7prev": 7087,
-   "d30": 17756,
-   "d30prev": 294.37,
+   "lastDay": "2026-10-23",
+   "d1": 385,
+   "d1prev": 310,
+   "d7": 4423,
+   "d7prev": 6607,
+   "d30": 18006,
+   "d30prev": 429.37,
    "spark": [
-    135,
     133,
     0,
     198,
@@ -670,9 +669,10 @@
     892,
     404,
     863,
-    310
+    310,
+    385
    ],
-   "rankChange": -4
+   "rankChange": 0
   },
   {
    "name": "FomoMCP",
@@ -807,7 +807,7 @@
     439,
     66
    ],
-   "rankChange": -3
+   "rankChange": -4
   },
   {
    "name": "Banana Gun",
