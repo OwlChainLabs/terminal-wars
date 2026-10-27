@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T20:34:25.724Z",
+ "updatedAt": "2026-10-27T00:31:37.360Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -15,7 +15,7 @@
    "d7": 2337223,
    "d7prev": 2710034,
    "d30": 14191098,
-   "d30prev": 14353645,
+   "d30prev": 13498026,
    "spark": [
     783782,
     465428,
@@ -63,7 +63,7 @@
    "d7": 1619819,
    "d7prev": 1802849,
    "d30": 10789453,
-   "d30prev": 11869595,
+   "d30prev": 11445377,
    "spark": [
     680277,
     477580,
@@ -111,7 +111,7 @@
    "d7": 438059,
    "d7prev": 464196,
    "d30": 2483503,
-   "d30prev": 2705426,
+   "d30prev": 2554857,
    "spark": [
     120052,
     93648,
@@ -159,7 +159,7 @@
    "d7": 108958,
    "d7prev": 117058,
    "d30": 654930,
-   "d30prev": 844146,
+   "d30prev": 799010,
    "spark": [
     37823,
     28602,
@@ -201,15 +201,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/photon",
    "twitter": "tradewithPhoton",
    "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 5022,
-   "d1prev": 5413,
-   "d7": 56801,
-   "d7prev": 61950,
-   "d30": 341693,
-   "d30prev": 432171,
+   "lastDay": "2026-10-26",
+   "d1": 6999,
+   "d1prev": 5022,
+   "d7": 54109,
+   "d7prev": 60553,
+   "d30": 331495,
+   "d30prev": 407250,
    "spark": [
-    17197,
     12663,
     17805,
     18362,
@@ -238,9 +237,10 @@
     9074,
     6213,
     5413,
-    5022
+    5022,
+    6999
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "Maestro",
@@ -255,7 +255,7 @@
    "d7": 34216,
    "d7prev": 43409,
    "d30": 217413,
-   "d30prev": 232250,
+   "d30prev": 221127,
    "spark": [
     12186,
     9411,
@@ -288,55 +288,7 @@
     3666,
     3982
    ],
-   "rankChange": 2
-  },
-  {
-   "name": "RayBot",
-   "slug": "raybot",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/raybot",
-   "twitter": "RayBot_sol",
-   "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 2901,
-   "d1prev": 485,
-   "d7": 6063,
-   "d7prev": 4206,
-   "d30": 23852,
-   "d30prev": 34645,
-   "spark": [
-    1557,
-    1078,
-    681,
-    1126,
-    847,
-    731,
-    384,
-    1209,
-    777,
-    1149,
-    885,
-    823,
-    574,
-    727,
-    663,
-    372,
-    441,
-    557,
-    1028,
-    728,
-    560,
-    533,
-    359,
-    116,
-    880,
-    476,
-    710,
-    495,
-    485,
-    2901
-   ],
-   "rankChange": 4
+   "rankChange": 1
   },
   {
    "name": "moonshot.money",
@@ -345,15 +297,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/moonshot.money",
    "twitter": "moonshot",
    "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 2143,
-   "d1prev": 7726,
-   "d7": 20027,
-   "d7prev": 21632,
-   "d30": 132837,
-   "d30prev": 220226,
+   "lastDay": "2026-10-26",
+   "d1": 2472,
+   "d1prev": 2143,
+   "d7": 20579,
+   "d7prev": 20427,
+   "d30": 125309,
+   "d30prev": 223304,
    "spark": [
-    10000,
     6902,
     4487,
     5853,
@@ -382,9 +333,10 @@
     3290,
     1479,
     7726,
-    2143
+    2143,
+    2472
    ],
-   "rankChange": -2
+   "rankChange": 2
   },
   {
    "name": "Ave.ai",
@@ -399,7 +351,7 @@
    "d7": 6783,
    "d7prev": 10314,
    "d30": 48763,
-   "d30prev": 23668,
+   "d30prev": 22155,
    "spark": [
     3648,
     2287,
@@ -432,7 +384,7 @@
     568,
     982
    ],
-   "rankChange": 1
+   "rankChange": 2
   },
   {
    "name": "BONKbot",
@@ -447,7 +399,7 @@
    "d7": 4879,
    "d7prev": 7702,
    "d30": 52297,
-   "d30prev": 63227,
+   "d30prev": 59844,
    "spark": [
     2751,
     4435,
@@ -480,7 +432,55 @@
     181,
     611
    ],
-   "rankChange": 4
+   "rankChange": 5
+  },
+  {
+   "name": "RayBot",
+   "slug": "raybot",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/raybot",
+   "twitter": "RayBot_sol",
+   "stale": false,
+   "lastDay": "2026-10-26",
+   "d1": 547,
+   "d1prev": 2901,
+   "d7": 6494,
+   "d7prev": 3881,
+   "d30": 22842,
+   "d30prev": 32778,
+   "spark": [
+    1078,
+    681,
+    1126,
+    847,
+    731,
+    384,
+    1209,
+    777,
+    1149,
+    885,
+    823,
+    574,
+    727,
+    663,
+    372,
+    441,
+    557,
+    1028,
+    728,
+    560,
+    533,
+    359,
+    116,
+    880,
+    476,
+    710,
+    495,
+    485,
+    2901,
+    547
+   ],
+   "rankChange": -2
   },
   {
    "name": "copyfomo",
@@ -528,7 +528,7 @@
     308,
     387
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "SolTradingBot",
@@ -543,7 +543,7 @@
    "d7": 2651,
    "d7prev": 3326,
    "d30": 20315,
-   "d30prev": 24053,
+   "d30prev": 21700,
    "spark": [
     1073,
     899,
@@ -579,6 +579,54 @@
    "rankChange": 6
   },
   {
+   "name": "MEVX",
+   "slug": "mevx",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/mevx",
+   "twitter": "MevX_Official",
+   "stale": false,
+   "lastDay": "2026-10-26",
+   "d1": 351,
+   "d1prev": 234,
+   "d7": 4591,
+   "d7prev": 4124,
+   "d30": 23130,
+   "d30prev": 43669,
+   "spark": [
+    443,
+    531,
+    545,
+    768,
+    752,
+    827,
+    717,
+    2223,
+    1009,
+    1035,
+    1060,
+    1083,
+    772,
+    1136,
+    629,
+    885,
+    731,
+    936,
+    556,
+    480,
+    574,
+    380,
+    467,
+    400,
+    578,
+    603,
+    403,
+    2022,
+    234,
+    351
+   ],
+   "rankChange": 0
+  },
+  {
    "name": "Telemetry",
    "slug": "telemetry",
    "category": "Trading App",
@@ -591,7 +639,7 @@
    "d7": 2846,
    "d7prev": 3950,
    "d30": 19651,
-   "d30prev": 24290,
+   "d30prev": 23282,
    "spark": [
     1020,
     872,
@@ -624,55 +672,7 @@
     327,
     344
    ],
-   "rankChange": -1
-  },
-  {
-   "name": "MEVX",
-   "slug": "mevx",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/mevx",
-   "twitter": "MevX_Official",
-   "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 234,
-   "d1prev": 2022,
-   "d7": 4707,
-   "d7prev": 4542,
-   "d30": 23440,
-   "d30prev": 44910,
-   "spark": [
-    661,
-    443,
-    531,
-    545,
-    768,
-    752,
-    827,
-    717,
-    2223,
-    1009,
-    1035,
-    1060,
-    1083,
-    772,
-    1136,
-    629,
-    885,
-    731,
-    936,
-    556,
-    480,
-    574,
-    380,
-    467,
-    400,
-    578,
-    603,
-    403,
-    2022,
-    234
-   ],
-   "rankChange": -5
+   "rankChange": -3
   },
   {
    "name": "FomoMCP",
@@ -681,12 +681,12 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomomcp",
    "twitter": "FomoMCP",
    "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 181,
-   "d1prev": 121,
-   "d7": 1901,
-   "d7prev": 2293,
-   "d30": 4423.97,
+   "lastDay": "2026-10-26",
+   "d1": 190,
+   "d1prev": 181,
+   "d7": 1565,
+   "d7prev": 2604,
+   "d30": 4613.97,
    "d30prev": 0,
    "spark": [
     23.16,
@@ -711,7 +711,8 @@
     147,
     176,
     121,
-    181
+    181,
+    190
    ],
    "rankChange": 0
   },
@@ -728,7 +729,7 @@
    "d7": 346,
    "d7prev": 388.38,
    "d30": 2764.38,
-   "d30prev": 3601,
+   "d30prev": 3491,
    "spark": [
     144,
     76,
@@ -776,7 +777,7 @@
    "d7": 443,
    "d7prev": 501,
    "d30": 5380,
-   "d30prev": 10415.529999999999,
+   "d30prev": 10070.529999999999,
    "spark": [
     361,
     110,
@@ -824,7 +825,7 @@
    "d7": 690310,
    "d7prev": 684925,
    "d30": 4292915,
-   "d30prev": 4309375,
+   "d30prev": 4108060,
    "spark": [
     307273,
     201308,
