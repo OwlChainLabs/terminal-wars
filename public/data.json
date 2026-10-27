@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T09:07:07.292Z",
+ "updatedAt": "2026-10-27T15:25:14.625Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 186199,
-   "d1prev": 198354,
-   "d7": 1619819,
-   "d7prev": 1802849,
-   "d30": 10789453,
-   "d30prev": 11445377,
+   "lastDay": "2026-10-26",
+   "d1": 199494,
+   "d1prev": 186147,
+   "d7": 1579651,
+   "d7prev": 1745018,
+   "d30": 10308618,
+   "d30prev": 12125654,
    "spark": [
-    680277,
     477580,
     419231,
     510504,
@@ -94,7 +93,8 @@
     237215,
     230429,
     198354,
-    186199
+    186147,
+    199494
    ],
    "rankChange": 0
   },
@@ -432,7 +432,7 @@
     344,
     757
    ],
-   "rankChange": 3
+   "rankChange": 4
   },
   {
    "name": "Ave.ai",
@@ -585,15 +585,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copyfomo",
    "stale": false,
-   "lastDay": "2026-10-25",
-   "d1": 387,
-   "d1prev": 308,
-   "d7": 3549,
-   "d7prev": 5832,
-   "d30": 18568,
-   "d30prev": 562.37,
+   "lastDay": "2026-10-26",
+   "d1": 540,
+   "d1prev": 387,
+   "d7": 3197,
+   "d7prev": 5193,
+   "d30": 18910,
+   "d30prev": 760.37,
    "spark": [
-    198,
     325,
     0,
     0,
@@ -622,9 +621,10 @@
     310,
     385,
     308,
-    387
+    387,
+    540
    ],
-   "rankChange": 0
+   "rankChange": -2
   },
   {
    "name": "MEVX",
@@ -762,7 +762,7 @@
     377,
     102
    ],
-   "rankChange": -5
+   "rankChange": -4
   },
   {
    "name": "Maxbid",
