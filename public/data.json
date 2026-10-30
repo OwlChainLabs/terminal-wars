@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T10:09:43.534Z",
+ "updatedAt": "2026-10-30T18:04:25.648Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-28",
-   "d1": 227713,
-   "d1prev": 193535,
-   "d7": 1472855,
-   "d7prev": 1768141,
-   "d30": 9833023,
-   "d30prev": 12149716,
+   "lastDay": "2026-10-29",
+   "d1": 272347,
+   "d1prev": 227710,
+   "d7": 1507984,
+   "d7prev": 1751663,
+   "d30": 9594863,
+   "d30prev": 12660220,
    "spark": [
-    510504,
     470314,
     544350,
     582699,
@@ -94,7 +93,8 @@
     186147,
     199462,
     193535,
-    227713
+    227710,
+    272347
    ],
    "rankChange": 0
   },
@@ -435,6 +435,54 @@
    "rankChange": -1
   },
   {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copyfomo",
+   "stale": false,
+   "lastDay": "2026-10-29",
+   "d1": 669,
+   "d1prev": 392,
+   "d7": 2949,
+   "d7prev": 4830,
+   "d30": 19914,
+   "d30prev": 1085.37,
+   "spark": [
+    0,
+    0,
+    167,
+    0,
+    0,
+    0,
+    1787,
+    1613,
+    1481,
+    1272,
+    1195,
+    1149,
+    1531,
+    1029,
+    789,
+    122,
+    792,
+    623,
+    946,
+    892,
+    404,
+    863,
+    310,
+    385,
+    308,
+    387,
+    540,
+    268,
+    392,
+    669
+   ],
+   "rankChange": 3
+  },
+  {
    "name": "Ave.ai",
    "slug": "ave.ai",
    "category": "Trading App",
@@ -480,7 +528,7 @@
     612,
     650
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "Telemetry",
@@ -528,7 +576,7 @@
     525,
     571
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "BONKbot",
@@ -576,55 +624,7 @@
     769,
     532
    ],
-   "rankChange": -3
-  },
-  {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copyfomo",
-   "stale": false,
-   "lastDay": "2026-10-28",
-   "d1": 392,
-   "d1prev": 268,
-   "d7": 2590,
-   "d7prev": 4642,
-   "d30": 19245,
-   "d30prev": 1085.37,
-   "spark": [
-    0,
-    0,
-    0,
-    167,
-    0,
-    0,
-    0,
-    1787,
-    1613,
-    1481,
-    1272,
-    1195,
-    1149,
-    1531,
-    1029,
-    789,
-    122,
-    792,
-    623,
-    946,
-    892,
-    404,
-    863,
-    310,
-    385,
-    308,
-    387,
-    540,
-    268,
-    392
-   ],
-   "rankChange": 1
+   "rankChange": -4
   },
   {
    "name": "MEVX",
@@ -672,7 +672,7 @@
     378,
     384
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "SolTradingBot",
