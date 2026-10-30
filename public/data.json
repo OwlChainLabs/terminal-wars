@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T01:06:47.471Z",
+ "updatedAt": "2026-10-30T10:09:43.534Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -250,11 +250,11 @@
    "twitter": "tradewithPhoton",
    "stale": false,
    "lastDay": "2026-10-29",
-   "d1": 7955,
+   "d1": 7558,
    "d1prev": 7967,
-   "d7": 47862,
+   "d7": 47465,
    "d7prev": 64444,
-   "d30": 306880,
+   "d30": 306483,
    "d30prev": 366737,
    "spark": [
     15981,
@@ -286,7 +286,7 @@
     7211,
     8081,
     7967,
-    7955
+    7558
    ],
    "rankChange": 0
   },
@@ -634,11 +634,11 @@
    "twitter": "MevX_Official",
    "stale": false,
    "lastDay": "2026-10-29",
-   "d1": 379,
+   "d1": 384,
    "d1prev": 378,
-   "d7": 4045,
+   "d7": 4050,
    "d7prev": 3482,
-   "d30": 22646,
+   "d30": 22651,
    "d30prev": 38713,
    "spark": [
     768,
@@ -670,7 +670,7 @@
     349,
     280,
     378,
-    379
+    384
    ],
    "rankChange": -1
   },
