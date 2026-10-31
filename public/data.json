@@ -1,55 +1,7 @@
 {
- "updatedAt": "2026-10-31T05:53:00.679Z",
+ "updatedAt": "2026-10-31T12:42:23.783Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
-  {
-   "name": "fomo Wallet",
-   "slug": "fomo-wallet",
-   "category": "Trading App",
-   "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
-   "twitter": "fomo",
-   "stale": false,
-   "lastDay": "2026-10-29",
-   "d1": 272347,
-   "d1prev": 227710,
-   "d7": 1507984,
-   "d7prev": 1751663,
-   "d30": 9594863,
-   "d30prev": 12411379,
-   "spark": [
-    470314,
-    544350,
-    582699,
-    443991,
-    583038,
-    470527,
-    457437,
-    385658,
-    380507,
-    342047,
-    328468,
-    290157,
-    297441,
-    256798,
-    248091,
-    253693,
-    298462,
-    225281,
-    223083,
-    239610,
-    252203,
-    275809,
-    237215,
-    230429,
-    198354,
-    186147,
-    199462,
-    193535,
-    227710,
-    272347
-   ],
-   "rankChange": 1
-  },
   {
    "name": "Axiom",
    "slug": "axiom",
@@ -96,7 +48,55 @@
     277224,
     254597
    ],
-   "rankChange": -1
+   "rankChange": 0
+  },
+  {
+   "name": "fomo Wallet",
+   "slug": "fomo-wallet",
+   "category": "Trading App",
+   "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
+   "twitter": "fomo",
+   "stale": false,
+   "lastDay": "2026-10-30",
+   "d1": 191612,
+   "d1prev": 272347,
+   "d7": 1469167,
+   "d7prev": 1683630,
+   "d30": 9316161,
+   "d30prev": 12881693,
+   "spark": [
+    544350,
+    582699,
+    443991,
+    583038,
+    470527,
+    457437,
+    385658,
+    380507,
+    342047,
+    328468,
+    290157,
+    297441,
+    256798,
+    248091,
+    253693,
+    298462,
+    225281,
+    223083,
+    239610,
+    252203,
+    275809,
+    237215,
+    230429,
+    198354,
+    186147,
+    199462,
+    193535,
+    227710,
+    272347,
+    191612
+   ],
+   "rankChange": 0
   },
   {
    "name": "GMGN",
@@ -387,54 +387,6 @@
    "rankChange": -1
   },
   {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copyfomo",
-   "stale": false,
-   "lastDay": "2026-10-29",
-   "d1": 669,
-   "d1prev": 392,
-   "d7": 2949,
-   "d7prev": 4830,
-   "d30": 19914,
-   "d30prev": 1085.1399999999999,
-   "spark": [
-    0,
-    0,
-    167,
-    0,
-    0,
-    0,
-    1787,
-    1613,
-    1481,
-    1272,
-    1195,
-    1149,
-    1531,
-    1029,
-    789,
-    122,
-    792,
-    623,
-    946,
-    892,
-    404,
-    863,
-    310,
-    385,
-    308,
-    387,
-    540,
-    268,
-    392,
-    669
-   ],
-   "rankChange": 4
-  },
-  {
    "name": "Ave.ai",
    "slug": "ave.ai",
    "category": "Trading App",
@@ -480,7 +432,7 @@
     650,
     522
    ],
-   "rankChange": 0
+   "rankChange": 2
   },
   {
    "name": "BONKbot",
@@ -528,7 +480,7 @@
     532,
     476
    ],
-   "rankChange": 1
+   "rankChange": 3
   },
   {
    "name": "Telemetry",
@@ -576,7 +528,7 @@
     571,
     464
    ],
-   "rankChange": -1
+   "rankChange": 1
   },
   {
    "name": "SolTradingBot",
@@ -624,7 +576,7 @@
     349,
     439
    ],
-   "rankChange": 2
+   "rankChange": 3
   },
   {
    "name": "RayBot",
@@ -672,7 +624,7 @@
     2456,
     347
    ],
-   "rankChange": -6
+   "rankChange": -5
   },
   {
    "name": "MEVX",
@@ -720,7 +672,55 @@
     384,
     314
    ],
-   "rankChange": -1
+   "rankChange": 0
+  },
+  {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copyfomo",
+   "stale": false,
+   "lastDay": "2026-10-30",
+   "d1": 294,
+   "d1prev": 669,
+   "d7": 2858,
+   "d7prev": 4423,
+   "d30": 20208,
+   "d30prev": 1085.1399999999999,
+   "spark": [
+    0,
+    167,
+    0,
+    0,
+    0,
+    1787,
+    1613,
+    1481,
+    1272,
+    1195,
+    1149,
+    1531,
+    1029,
+    789,
+    122,
+    792,
+    623,
+    946,
+    892,
+    404,
+    863,
+    310,
+    385,
+    308,
+    387,
+    540,
+    268,
+    392,
+    669,
+    294
+   ],
+   "rankChange": -5
   },
   {
    "name": "FomoMCP",
