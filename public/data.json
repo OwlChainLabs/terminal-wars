@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T06:17:10.605Z",
+ "updatedAt": "2026-11-01T13:36:58.740Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -9,15 +9,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-10-30",
-   "d1": 191619,
-   "d1prev": 272183,
-   "d7": 1469007,
-   "d7prev": 1683630,
-   "d30": 9316001,
-   "d30prev": 12665404,
+   "lastDay": "2026-10-31",
+   "d1": 179243,
+   "d1prev": 191619,
+   "d7": 1449896,
+   "d7prev": 1656703,
+   "d30": 8950894,
+   "d30prev": 13209754,
    "spark": [
-    544350,
     582699,
     443991,
     583038,
@@ -46,9 +45,10 @@
     193535,
     227707,
     272183,
-    191619
+    191619,
+    179243
    ],
-   "rankChange": 0
+   "rankChange": 1
   },
   {
    "name": "Axiom",
@@ -96,7 +96,7 @@
     254597,
     144591
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "GMGN",
@@ -432,7 +432,7 @@
     476,
     701
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "Telemetry",
@@ -480,7 +480,7 @@
     464,
     547
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "Ave.ai",
@@ -528,7 +528,55 @@
     522,
     475
    ],
-   "rankChange": -1
+   "rankChange": -2
+  },
+  {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copyfomo",
+   "stale": false,
+   "lastDay": "2026-10-31",
+   "d1": 459,
+   "d1prev": 294,
+   "d7": 3009,
+   "d7prev": 4108,
+   "d30": 20667,
+   "d30prev": 1085.1399999999999,
+   "spark": [
+    167,
+    0,
+    0,
+    0,
+    1787,
+    1613,
+    1481,
+    1272,
+    1195,
+    1149,
+    1531,
+    1029,
+    789,
+    122,
+    792,
+    623,
+    946,
+    892,
+    404,
+    863,
+    310,
+    385,
+    308,
+    387,
+    540,
+    268,
+    392,
+    669,
+    294,
+    459
+   ],
+   "rankChange": 3
   },
   {
    "name": "SolTradingBot",
@@ -576,55 +624,7 @@
     439,
     349
    ],
-   "rankChange": 1
-  },
-  {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copyfomo",
-   "stale": false,
-   "lastDay": "2026-10-30",
-   "d1": 294,
-   "d1prev": 669,
-   "d7": 2858,
-   "d7prev": 4423,
-   "d30": 20208,
-   "d30prev": 1085.1399999999999,
-   "spark": [
-    0,
-    167,
-    0,
-    0,
-    0,
-    1787,
-    1613,
-    1481,
-    1272,
-    1195,
-    1149,
-    1531,
-    1029,
-    789,
-    122,
-    792,
-    623,
-    946,
-    892,
-    404,
-    863,
-    310,
-    385,
-    308,
-    387,
-    540,
-    268,
-    392,
-    669,
-    294
-   ],
-   "rankChange": -4
+   "rankChange": -1
   },
   {
    "name": "MEVX",
@@ -672,7 +672,7 @@
     314,
     287
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "FomoMCP",
@@ -767,7 +767,7 @@
     347,
     55
    ],
-   "rankChange": -2
+   "rankChange": -3
   },
   {
    "name": "Maxbid",
