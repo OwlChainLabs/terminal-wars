@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T19:45:03.561Z",
+ "updatedAt": "2026-11-02T00:49:21.988Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -15,7 +15,7 @@
    "d7": 1449873,
    "d7prev": 1656703,
    "d30": 8950871,
-   "d30prev": 13209754,
+   "d30prev": 13045266,
    "spark": [
     582699,
     443991,
@@ -63,7 +63,7 @@
    "d7": 1912749,
    "d7prev": 2415076,
    "d30": 12188991,
-   "d30prev": 14600844,
+   "d30prev": 14285711,
    "spark": [
     649788,
     552500,
@@ -111,7 +111,7 @@
    "d7": 359306,
    "d7prev": 822732,
    "d30": 3466468,
-   "d30prev": 4694811,
+   "d30prev": 4667986,
    "spark": [
     216333,
     190089,
@@ -159,7 +159,7 @@
    "d7": 386593,
    "d7prev": 452351,
    "d30": 2198874,
-   "d30prev": 2623113,
+   "d30prev": 2540269,
    "spark": [
     122643,
     93361,
@@ -207,7 +207,7 @@
    "d7": 88749,
    "d7prev": 112839,
    "d30": 548716,
-   "d30prev": 823494,
+   "d30prev": 805064,
    "spark": [
     25552,
     26109,
@@ -249,15 +249,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/photon",
    "twitter": "tradewithPhoton",
    "stale": false,
-   "lastDay": "2026-10-31",
-   "d1": 3689,
-   "d1prev": 4397,
-   "d7": 43925,
-   "d7prev": 59200,
-   "d30": 284446,
-   "d30prev": 345205,
+   "lastDay": "2026-11-01",
+   "d1": 3764,
+   "d1prev": 3689,
+   "d7": 42667,
+   "d7prev": 56801,
+   "d30": 274467,
+   "d30prev": 342804,
    "spark": [
-    13743,
     12452,
     13600,
     14468,
@@ -286,7 +285,8 @@
     7967,
     7558,
     4397,
-    3689
+    3689,
+    3764
    ],
    "rankChange": 0
   },
@@ -303,7 +303,7 @@
    "d7": 15175,
    "d7prev": 19896,
    "d30": 102642,
-   "d30prev": 210477,
+   "d30prev": 205146,
    "spark": [
     7312,
     3051,
@@ -351,7 +351,7 @@
    "d7": 26913,
    "d7prev": 35140,
    "d30": 181418,
-   "d30prev": 250673,
+   "d30prev": 247592,
    "spark": [
     8942,
     7210,
@@ -399,7 +399,7 @@
    "d7": 3948,
    "d7prev": 5321,
    "d30": 37039,
-   "d30prev": 62605,
+   "d30prev": 59650,
    "spark": [
     3755,
     1774,
@@ -435,6 +435,54 @@
    "rankChange": 1
   },
   {
+   "name": "RayBot",
+   "slug": "raybot",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/raybot",
+   "twitter": "RayBot_sol",
+   "stale": false,
+   "lastDay": "2026-11-01",
+   "d1": 560,
+   "d1prev": 55,
+   "d7": 4439,
+   "d7prev": 6063,
+   "d30": 21887,
+   "d30prev": 31473,
+   "spark": [
+    1209,
+    777,
+    1149,
+    885,
+    823,
+    574,
+    727,
+    663,
+    372,
+    441,
+    557,
+    1028,
+    728,
+    560,
+    533,
+    359,
+    116,
+    880,
+    476,
+    710,
+    495,
+    485,
+    2901,
+    547,
+    281,
+    193,
+    2456,
+    347,
+    55,
+    560
+   ],
+   "rankChange": 8
+  },
+  {
    "name": "Telemetry",
    "slug": "telemetry",
    "category": "Trading App",
@@ -447,7 +495,7 @@
    "d7": 3679,
    "d7prev": 3110,
    "d30": 17439,
-   "d30prev": 24357,
+   "d30prev": 23709,
    "spark": [
     651,
     670,
@@ -480,7 +528,7 @@
     464,
     547
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "Ave.ai",
@@ -495,7 +543,7 @@
    "d7": 4794,
    "d7prev": 7575,
    "d30": 40277,
-   "d30prev": 30011,
+   "d30prev": 29360,
    "spark": [
     1757,
     1474,
@@ -528,7 +576,7 @@
     522,
     475
    ],
-   "rankChange": -2
+   "rankChange": -3
   },
   {
    "name": "copyfomo",
@@ -576,7 +624,7 @@
     294,
     459
    ],
-   "rankChange": 3
+   "rankChange": 0
   },
   {
    "name": "SolTradingBot",
@@ -591,7 +639,7 @@
    "d7": 2492,
    "d7prev": 2744,
    "d30": 16392,
-   "d30prev": 21991,
+   "d30prev": 20813,
    "spark": [
     686,
     454,
@@ -624,7 +672,7 @@
     439,
     349
    ],
-   "rankChange": -1
+   "rankChange": -2
   },
   {
    "name": "MEVX",
@@ -633,15 +681,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/mevx",
    "twitter": "MevX_Official",
    "stale": false,
-   "lastDay": "2026-10-31",
-   "d1": 287,
-   "d1prev": 314,
-   "d7": 2226,
-   "d7prev": 4853,
-   "d30": 21732,
-   "d30prev": 38020,
+   "lastDay": "2026-11-01",
+   "d1": 320,
+   "d1prev": 287,
+   "d7": 2312,
+   "d7prev": 4707,
+   "d30": 21225,
+   "d30prev": 38112,
    "spark": [
-    827,
     717,
     2223,
     1009,
@@ -670,9 +717,10 @@
     378,
     384,
     314,
-    287
+    287,
+    320
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "FomoMCP",
@@ -681,12 +729,12 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomomcp",
    "twitter": "FomoMCP",
    "stale": false,
-   "lastDay": "2026-10-31",
-   "d1": 269,
-   "d1prev": 209,
-   "d7": 1248.7,
-   "d7prev": 2126,
-   "d30": 5491.67,
+   "lastDay": "2026-11-01",
+   "d1": 318,
+   "d1prev": 269,
+   "d7": 1385.7,
+   "d7prev": 1901,
+   "d30": 5809.67,
    "d30prev": 0,
    "spark": [
     23.16,
@@ -717,57 +765,10 @@
     174,
     168,
     209,
-    269
+    269,
+    318
    ],
-   "rankChange": 1
-  },
-  {
-   "name": "RayBot",
-   "slug": "raybot",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/raybot",
-   "twitter": "RayBot_sol",
-   "stale": false,
-   "lastDay": "2026-10-31",
-   "d1": 55,
-   "d1prev": 347,
-   "d7": 6780,
-   "d7prev": 3521,
-   "d30": 21711,
-   "d30prev": 31623,
-   "spark": [
-    384,
-    1209,
-    777,
-    1149,
-    885,
-    823,
-    574,
-    727,
-    663,
-    372,
-    441,
-    557,
-    1028,
-    728,
-    560,
-    533,
-    359,
-    116,
-    880,
-    476,
-    710,
-    495,
-    485,
-    2901,
-    547,
-    281,
-    193,
-    2456,
-    347,
-    55
-   ],
-   "rankChange": -3
+   "rankChange": -1
   },
   {
    "name": "Maxbid",
@@ -782,7 +783,7 @@
    "d7": 280.78999999999996,
    "d7prev": 488,
    "d30": 4016.79,
-   "d30prev": 9847.529999999999,
+   "d30prev": 9771.529999999999,
    "spark": [
     172,
     233,
@@ -815,7 +816,7 @@
     77,
     31
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "Banana Gun",
@@ -830,7 +831,7 @@
    "d7": 328,
    "d7prev": 291.38,
    "d30": 2027.38,
-   "d30prev": 4123,
+   "d30prev": 4058,
    "spark": [
     64,
     30,
@@ -863,7 +864,7 @@
     120,
     28
    ],
-   "rankChange": -1
+   "rankChange": -2
   }
  ]
 }
