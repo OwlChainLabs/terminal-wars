@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T06:55:36.313Z",
+ "updatedAt": "2026-11-03T17:08:10.184Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-01",
-   "d1": 146614,
-   "d1prev": 179250,
-   "d7": 1410348,
-   "d7prev": 1619767,
-   "d30": 8514794,
-   "d30prev": 13473588,
+   "lastDay": "2026-11-02",
+   "d1": 194321,
+   "d1prev": 146638,
+   "d7": 1405231,
+   "d7prev": 1579619,
+   "d30": 8265148,
+   "d30prev": 13917579,
    "spark": [
-    443991,
     583038,
     470527,
     457437,
@@ -94,7 +93,8 @@
     272183,
     191597,
     179250,
-    146614
+    146638,
+    194321
    ],
    "rankChange": 0
   },
@@ -432,7 +432,7 @@
     326,
     470
    ],
-   "rankChange": 5
+   "rankChange": 4
   },
   {
    "name": "MEVX",
@@ -480,7 +480,7 @@
     341,
     463
    ],
-   "rankChange": 3
+   "rankChange": 2
   },
   {
    "name": "copyfomo",
@@ -489,15 +489,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copyfomo",
    "stale": false,
-   "lastDay": "2026-11-01",
-   "d1": 312,
-   "d1prev": 459,
-   "d7": 2934,
-   "d7prev": 3549,
-   "d30": 20812,
+   "lastDay": "2026-11-02",
+   "d1": 422,
+   "d1prev": 312,
+   "d7": 2816,
+   "d7prev": 3197,
+   "d30": 21234,
    "d30prev": 1249,
    "spark": [
-    0,
     0,
     0,
     1787,
@@ -526,9 +525,10 @@
     669,
     294,
     459,
-    312
+    312,
+    422
    ],
-   "rankChange": 1
+   "rankChange": 3
   },
   {
    "name": "Telemetry",
