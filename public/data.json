@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T06:56:40.271Z",
+ "updatedAt": "2026-11-05T17:28:31.110Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-03",
-   "d1": 211886,
-   "d1prev": 194239,
-   "d7": 1423500,
-   "d7prev": 1520951,
-   "d30": 7893914,
-   "d30prev": 14192846,
+   "lastDay": "2026-11-04",
+   "d1": 191923,
+   "d1prev": 211831,
+   "d7": 1387661,
+   "d7prev": 1472849,
+   "d30": 7615255,
+   "d30prev": 14663373,
    "spark": [
-    470527,
     457437,
     385658,
     380507,
@@ -94,7 +93,8 @@
     179250,
     146638,
     194239,
-    211886
+    211831,
+    191923
    ],
    "rankChange": 0
   },
@@ -154,11 +154,11 @@
    "twitter": "Pumpfun",
    "stale": false,
    "lastDay": "2026-11-04",
-   "d1": 59432,
-   "d1prev": 61182,
-   "d7": 335436,
+   "d1": 59057,
+   "d1prev": 61750,
+   "d7": 334844,
    "d7prev": 425392,
-   "d30": 1971135,
+   "d30": 1970543,
    "d30prev": 2884843,
    "spark": [
     115306,
@@ -184,13 +184,13 @@
     75136,
     58869,
     64287,
-    53546,
-    49377,
-    38047,
-    48013,
-    25839,
-    61182,
-    59432
+    52687,
+    49370,
+    38087,
+    48167,
+    25726,
+    61750,
+    59057
    ],
    "rankChange": 0
   },
@@ -432,7 +432,7 @@
     835,
     1075
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "copyfomo",
@@ -441,15 +441,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copytop_",
    "stale": false,
-   "lastDay": "2026-11-03",
-   "d1": 847,
-   "d1prev": 422,
-   "d7": 3395,
-   "d7prev": 3061,
-   "d30": 22081,
+   "lastDay": "2026-11-04",
+   "d1": 828,
+   "d1prev": 847,
+   "d7": 3831,
+   "d7prev": 2590,
+   "d30": 22909,
    "d30prev": 1249,
    "spark": [
-    0,
     1787,
     1613,
     1481,
@@ -478,9 +477,10 @@
     459,
     312,
     422,
-    847
+    847,
+    828
    ],
-   "rankChange": 1
+   "rankChange": -2
   },
   {
    "name": "Telemetry",
@@ -528,7 +528,7 @@
     489,
     567
    ],
-   "rankChange": -2
+   "rankChange": -1
   },
   {
    "name": "SolTradingBot",
@@ -720,7 +720,7 @@
     433,
     390
    ],
-   "rankChange": -5
+   "rankChange": -4
   },
   {
    "name": "Maxbid",
