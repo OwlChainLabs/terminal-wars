@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T10:30:19.300Z",
+ "updatedAt": "2026-11-08T17:57:45.161Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -9,15 +9,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/axiom",
    "twitter": "AxiomExchange",
    "stale": false,
-   "lastDay": "2026-11-06",
-   "d1": 262306,
-   "d1prev": 236551,
-   "d7": 1777520,
-   "d7prev": 2020438,
-   "d30": 10163548,
-   "d30prev": 15886934,
+   "lastDay": "2026-11-07",
+   "d1": 223535,
+   "d1prev": 262306,
+   "d7": 1856464,
+   "d7prev": 1912749,
+   "d30": 9859791,
+   "d30prev": 16414226,
    "spark": [
-    527292,
     452208,
     425321,
     428325,
@@ -46,7 +45,8 @@
     278683,
     369086,
     236551,
-    262306
+    262306,
+    223535
    ],
    "rankChange": 0
   },
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-06",
-   "d1": 183159,
-   "d1prev": 180230,
-   "d7": 1287250,
-   "d7prev": 1468985,
-   "d30": 7135529,
-   "d30prev": 14004789,
+   "lastDay": "2026-11-07",
+   "d1": 185663,
+   "d1prev": 183142,
+   "d7": 1293646,
+   "d7prev": 1449881,
+   "d30": 6940668,
+   "d30prev": 14385296,
    "spark": [
-    380507,
     342047,
     328468,
     290157,
@@ -94,7 +93,8 @@
     211831,
     191903,
     180230,
-    183159
+    183142,
+    185663
    ],
    "rankChange": 0
   },
@@ -432,7 +432,7 @@
     760,
     935
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "copyfomo",
@@ -441,15 +441,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copytop_",
    "stale": false,
-   "lastDay": "2026-11-06",
-   "d1": 548,
-   "d1prev": 875,
-   "d7": 4291,
-   "d7prev": 2858,
-   "d30": 20932,
-   "d30prev": 4626,
+   "lastDay": "2026-11-07",
+   "d1": 647,
+   "d1prev": 548,
+   "d7": 4479,
+   "d7prev": 3009,
+   "d30": 20098,
+   "d30prev": 6107,
    "spark": [
-    1481,
     1272,
     1195,
     1149,
@@ -478,9 +477,10 @@
     847,
     828,
     875,
-    548
+    548,
+    647
    ],
-   "rankChange": -2
+   "rankChange": -1
   },
   {
    "name": "MEVX",
