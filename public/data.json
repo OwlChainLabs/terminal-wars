@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T01:53:53.829Z",
+ "updatedAt": "2026-11-13T11:09:13.700Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -105,15 +105,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/gmgn",
    "twitter": "gmgnai",
    "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 116838,
-   "d1prev": 69767,
-   "d7": 483070,
-   "d7prev": 338030,
-   "d30": 2272402,
-   "d30prev": 5189420,
+   "lastDay": "2026-11-12",
+   "d1": 83176,
+   "d1prev": 116838,
+   "d7": 512369,
+   "d7prev": 383142,
+   "d30": 2336458,
+   "d30prev": 5208540,
    "spark": [
-    19120,
     112631,
     137409,
     31809,
@@ -142,7 +141,8 @@
     74965,
     34387,
     69767,
-    116838
+    116838,
+    83176
    ],
    "rankChange": 0
   },
@@ -201,15 +201,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/trojan",
    "twitter": "TrojanOnSolana",
    "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 12919,
-   "d1prev": 10574,
-   "d7": 75408,
-   "d7prev": 84987,
-   "d30": 407772,
-   "d30prev": 807637,
+   "lastDay": "2026-11-12",
+   "d1": 10907,
+   "d1prev": 12919,
+   "d7": 74563,
+   "d7prev": 82733,
+   "d30": 400884,
+   "d30prev": 825432,
    "spark": [
-    17795,
     15450,
     18778,
     16773,
@@ -238,57 +237,10 @@
     10383,
     7905,
     10574,
-    12919
+    12919,
+    10907
    ],
    "rankChange": 0
-  },
-  {
-   "name": "Maestro",
-   "slug": "maestro",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/maestro",
-   "twitter": "MaestroBots",
-   "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 6750,
-   "d1prev": 2636,
-   "d7": 25573,
-   "d7prev": 20897,
-   "d30": 128142,
-   "d30prev": 253615,
-   "spark": [
-    4675,
-    6352,
-    7515,
-    5792,
-    5050,
-    4906,
-    4199,
-    6352,
-    7632,
-    4919,
-    3466,
-    3666,
-    3982,
-    4375,
-    3956,
-    4835,
-    4971,
-    2254,
-    2540,
-    2144,
-    1767,
-    3797,
-    3424,
-    4753,
-    1405,
-    3952,
-    2915,
-    3162,
-    2636,
-    6750
-   ],
-   "rankChange": 1
   },
   {
    "name": "Photon",
@@ -298,11 +250,11 @@
    "twitter": "tradewithPhoton",
    "stale": false,
    "lastDay": "2026-11-12",
-   "d1": 5928,
+   "d1": 5772,
    "d1prev": 6499,
-   "d7": 38133,
+   "d7": 37977,
    "d7prev": 35846,
-   "d30": 203252,
+   "d30": 203096,
    "d30prev": 371816,
    "spark": [
     8374,
@@ -334,9 +286,105 @@
     4984,
     5252,
     6499,
-    5928
+    5772
+   ],
+   "rankChange": 1
+  },
+  {
+   "name": "Maestro",
+   "slug": "maestro",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/maestro",
+   "twitter": "MaestroBots",
+   "stale": false,
+   "lastDay": "2026-11-12",
+   "d1": 2353,
+   "d1prev": 6750,
+   "d7": 23173,
+   "d7prev": 20679,
+   "d30": 125820,
+   "d30prev": 258290,
+   "spark": [
+    6352,
+    7515,
+    5792,
+    5050,
+    4906,
+    4199,
+    6352,
+    7632,
+    4919,
+    3466,
+    3666,
+    3982,
+    4375,
+    3956,
+    4835,
+    4971,
+    2254,
+    2540,
+    2144,
+    1767,
+    3797,
+    3424,
+    4753,
+    1405,
+    3952,
+    2915,
+    3162,
+    2636,
+    6750,
+    2353
    ],
    "rankChange": -1
+  },
+  {
+   "name": "BONKbot",
+   "slug": "bonkbot",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/bonkbot",
+   "twitter": "bonkbot_io",
+   "stale": false,
+   "lastDay": "2026-11-12",
+   "d1": 1382,
+   "d1prev": 447,
+   "d7": 4546,
+   "d7prev": 3850,
+   "d30": 20480,
+   "d30prev": 65572,
+   "spark": [
+    1142,
+    641,
+    1423,
+    786,
+    1053,
+    938,
+    359,
+    874,
+    821,
+    1095,
+    181,
+    611,
+    592,
+    267,
+    769,
+    532,
+    476,
+    701,
+    514,
+    167,
+    248,
+    1259,
+    485,
+    299,
+    1272,
+    414,
+    456,
+    276,
+    447,
+    1382
+   ],
+   "rankChange": 3
   },
   {
    "name": "copyfomo",
@@ -393,15 +441,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/ave.ai",
    "twitter": "AveaiGlobal",
    "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 1039,
-   "d1prev": 546,
-   "d7": 5555,
-   "d7prev": 4902,
-   "d30": 27633,
-   "d30prev": 35366,
+   "lastDay": "2026-11-12",
+   "d1": 988,
+   "d1prev": 1039,
+   "d7": 5589,
+   "d7prev": 5206,
+   "d30": 26942,
+   "d30prev": 37045,
    "spark": [
-    1679,
     1345,
     1193,
     919,
@@ -430,9 +477,10 @@
     725,
     596,
     546,
-    1039
+    1039,
+    988
    ],
-   "rankChange": 1
+   "rankChange": -2
   },
   {
    "name": "RayBot",
@@ -480,55 +528,7 @@
     190,
     451
    ],
-   "rankChange": 4
-  },
-  {
-   "name": "BONKbot",
-   "slug": "bonkbot",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/bonkbot",
-   "twitter": "bonkbot_io",
-   "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 447,
-   "d1prev": 276,
-   "d7": 3649,
-   "d7prev": 3897,
-   "d30": 19440,
-   "d30prev": 65230,
-   "spark": [
-    342,
-    1142,
-    641,
-    1423,
-    786,
-    1053,
-    938,
-    359,
-    874,
-    821,
-    1095,
-    181,
-    611,
-    592,
-    267,
-    769,
-    532,
-    476,
-    701,
-    514,
-    167,
-    248,
-    1259,
-    485,
-    299,
-    1272,
-    414,
-    456,
-    276,
-    447
-   ],
-   "rankChange": 2
+   "rankChange": 3
   },
   {
    "name": "MEVX",
@@ -538,11 +538,11 @@
    "twitter": "MevX_Official",
    "stale": false,
    "lastDay": "2026-11-12",
-   "d1": 432,
+   "d1": 400,
    "d1prev": 676,
-   "d7": 3339,
+   "d7": 3307,
    "d7prev": 16878,
-   "d30": 29241,
+   "d30": 29209,
    "d30prev": 36463,
    "spark": [
     936,
@@ -574,9 +574,9 @@
     540,
     316,
     676,
-    432
+    400
    ],
-   "rankChange": -4
+   "rankChange": -3
   },
   {
    "name": "SolTradingBot",
@@ -624,7 +624,7 @@
     338,
     348
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "Telemetry",
@@ -672,7 +672,7 @@
     385,
     331
    ],
-   "rankChange": -3
+   "rankChange": -2
   },
   {
    "name": "Maxbid",
@@ -720,7 +720,7 @@
     39,
     281
    ],
-   "rankChange": 2
+   "rankChange": 1
   },
   {
    "name": "FomoMCP",
@@ -730,11 +730,11 @@
    "twitter": "FomoMCP",
    "stale": false,
    "lastDay": "2026-11-12",
-   "d1": 152,
+   "d1": 136,
    "d1prev": 143,
-   "d7": 1632,
+   "d7": 1616,
    "d7prev": 1955,
-   "d30": 7936.7,
+   "d30": 7920.7,
    "d30prev": 663.97,
    "spark": [
     276,
@@ -766,7 +766,7 @@
     268,
     168,
     143,
-    152
+    136
    ],
    "rankChange": -1
   },
@@ -777,15 +777,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/banana-gun",
    "twitter": "BananaGun",
    "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 34,
-   "d1prev": 70,
-   "d7": 330,
-   "d7prev": 322,
-   "d30": 1414.38,
-   "d30prev": 4008,
+   "lastDay": "2026-11-12",
+   "d1": 51,
+   "d1prev": 34,
+   "d7": 366,
+   "d7prev": 310,
+   "d30": 1403.38,
+   "d30prev": 4070,
    "spark": [
-    62,
     34,
     77,
     80,
@@ -814,9 +813,10 @@
     65,
     41,
     70,
-    34
+    34,
+    51
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "moonshot.money",
@@ -825,15 +825,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/moonshot.money",
    "twitter": "moonshot",
    "stale": false,
-   "lastDay": "2026-11-11",
-   "d1": 0,
+   "lastDay": "2026-11-12",
+   "d1": 0.19,
    "d1prev": 0,
-   "d7": 0.04,
-   "d7prev": 10134,
-   "d30": 54691.04,
-   "d30prev": 157225,
+   "d7": 0.19,
+   "d7prev": 8676.04,
+   "d30": 52445.23,
+   "d30prev": 159471,
    "spark": [
-    2246,
     3565,
     3642,
     5402,
@@ -862,7 +861,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.19
    ],
    "rankChange": 0
   }
