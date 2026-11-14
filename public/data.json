@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:36:30.031Z",
+ "updatedAt": "2026-11-14T18:13:34.542Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -9,15 +9,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/axiom",
    "twitter": "AxiomExchange",
    "stale": false,
-   "lastDay": "2026-11-12",
-   "d1": 227638,
-   "d1prev": 336822,
-   "d7": 1744968,
-   "d7prev": 1769811,
-   "d30": 8941789,
-   "d30prev": 15583635,
+   "lastDay": "2026-11-13",
+   "d1": 219887,
+   "d1prev": 227638,
+   "d7": 1702549,
+   "d7prev": 1777520,
+   "d30": 8795683,
+   "d30prev": 15949628,
    "spark": [
-    365993,
     434936,
     387606,
     309838,
@@ -46,7 +45,8 @@
     229060,
     231427,
     336822,
-    227638
+    227638,
+    219887
    ],
    "rankChange": 0
   },
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-12",
-   "d1": 188822,
-   "d1prev": 262788,
-   "d7": 1351934,
-   "d7prev": 1295688,
-   "d30": 6408886,
-   "d30prev": 13082089,
+   "lastDay": "2026-11-13",
+   "d1": 187636,
+   "d1prev": 188766,
+   "d7": 1356372,
+   "d7prev": 1287233,
+   "d30": 6348375,
+   "d30prev": 13330180,
    "spark": [
-    248091,
     253693,
     298462,
     225281,
@@ -94,7 +93,8 @@
     171089,
     166841,
     262788,
-    188822
+    188766,
+    187636
    ],
    "rankChange": 0
   },
