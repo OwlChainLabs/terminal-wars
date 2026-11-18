@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T11:52:49.885Z",
+ "updatedAt": "2026-11-18T20:38:49.989Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -9,15 +9,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/axiom",
    "twitter": "AxiomExchange",
    "stale": false,
-   "lastDay": "2026-11-16",
-   "d1": 248395,
-   "d1prev": 117610,
-   "d7": 1557370,
-   "d7prev": 1833401,
-   "d30": 8204899,
-   "d30prev": 14867650,
+   "lastDay": "2026-11-17",
+   "d1": 195554,
+   "d1prev": 248395,
+   "d7": 1521497,
+   "d7prev": 1786145,
+   "d30": 8060067,
+   "d30prev": 15208036,
    "spark": [
-    340386,
     406241,
     308767,
     438696,
@@ -46,9 +45,10 @@
     219887,
     175591,
     117610,
-    248395
+    248395,
+    195554
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "fomo Wallet",
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-16",
-   "d1": 161591,
-   "d1prev": 143399,
-   "d7": 1282919,
-   "d7prev": 1317447,
-   "d30": 6047827,
-   "d30prev": 12301774,
+   "lastDay": "2026-11-17",
+   "d1": 184195,
+   "d1prev": 161567,
+   "d7": 1300249,
+   "d7prev": 1272457,
+   "d30": 6008915,
+   "d30prev": 12524857,
    "spark": [
-    223083,
     239610,
     252203,
     275809,
@@ -94,9 +93,10 @@
     187629,
     171905,
     143399,
-    161591
+    161567,
+    184195
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "GMGN",
@@ -243,6 +243,54 @@
    "rankChange": 0
   },
   {
+   "name": "Bloom Trading Bot",
+   "slug": "bloom-trading-bot",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
+   "twitter": "BloomTrading",
+   "stale": false,
+   "lastDay": "2026-11-17",
+   "d1": 5880,
+   "d1prev": 3131,
+   "d7": 21644,
+   "d7prev": 19885,
+   "d30": 49190,
+   "d30prev": 69965.39,
+   "spark": [
+    380,
+    165,
+    0,
+    498,
+    0,
+    0,
+    249,
+    0,
+    2952,
+    2904,
+    0,
+    0,
+    290,
+    0,
+    68,
+    155,
+    0,
+    4862,
+    2838,
+    4041,
+    2941,
+    1713,
+    3490,
+    3796,
+    2229,
+    3853,
+    1745,
+    1010,
+    3131,
+    5880
+   ],
+   "rankChange": 2
+  },
+  {
    "name": "Photon",
    "slug": "photon",
    "category": "Trading App",
@@ -288,7 +336,7 @@
     5080,
     4562
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "Maestro",
@@ -336,55 +384,7 @@
     3624,
     4043
    ],
-   "rankChange": 0
-  },
-  {
-   "name": "Bloom Trading Bot",
-   "slug": "bloom-trading-bot",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
-   "twitter": "BloomTrading",
-   "stale": false,
-   "lastDay": "2026-11-16",
-   "d1": 3131,
-   "d1prev": 1010,
-   "d7": 19254,
-   "d7prev": 16550,
-   "d30": 43310,
-   "d30prev": 69965.39,
-   "spark": [
-    0,
-    380,
-    165,
-    0,
-    498,
-    0,
-    0,
-    249,
-    0,
-    2952,
-    2904,
-    0,
-    0,
-    290,
-    0,
-    68,
-    155,
-    0,
-    4862,
-    2838,
-    4041,
-    2941,
-    1713,
-    3490,
-    3796,
-    2229,
-    3853,
-    1745,
-    1010,
-    3131
-   ],
-   "rankChange": 1
+   "rankChange": -1
   },
   {
    "name": "Ave.ai",
@@ -528,7 +528,7 @@
     1308,
     320
    ],
-   "rankChange": -3
+   "rankChange": -2
   },
   {
    "name": "copyfomo",
