@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T11:49:42.863Z",
+ "updatedAt": "2026-11-19T20:44:36.786Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-17",
-   "d1": 184195,
-   "d1prev": 161567,
-   "d7": 1300249,
-   "d7prev": 1272457,
-   "d30": 6008915,
-   "d30prev": 12053051,
+   "lastDay": "2026-11-18",
+   "d1": 265920,
+   "d1prev": 184148,
+   "d7": 1303334,
+   "d7prev": 1343342,
+   "d30": 6035178,
+   "d30prev": 12292661,
    "spark": [
-    239610,
     252203,
     275809,
     237215,
@@ -94,7 +93,8 @@
     171905,
     143399,
     161567,
-    184195
+    184148,
+    265920
    ],
    "rankChange": 0
   },
@@ -154,11 +154,11 @@
    "twitter": "Pumpfun",
    "stale": false,
    "lastDay": "2026-11-18",
-   "d1": 80772,
-   "d1prev": 56013,
-   "d7": 382925,
+   "d1": 82032,
+   "d1prev": 56356,
+   "d7": 386243,
    "d7prev": 417048,
-   "d30": 1698596,
+   "d30": 1701914,
    "d30prev": 2687230,
    "spark": [
     65890,
@@ -184,13 +184,13 @@
     52646,
     59569,
     66693,
-    52997,
-    61343,
-    38015,
-    40646,
-    53139,
-    56013,
-    80772
+    53088,
+    61936,
+    38451,
+    41300,
+    53080,
+    56356,
+    82032
    ],
    "rankChange": 0
   },
@@ -483,6 +483,54 @@
    "rankChange": 4
   },
   {
+   "name": "copyfomo",
+   "slug": "copyfomo",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
+   "twitter": "copytop_",
+   "stale": false,
+   "lastDay": "2026-11-18",
+   "d1": 635,
+   "d1prev": 319,
+   "d7": 4502,
+   "d7prev": 4872,
+   "d30": 17062,
+   "d30prev": 16318,
+   "spark": [
+    404,
+    863,
+    310,
+    385,
+    308,
+    387,
+    540,
+    268,
+    392,
+    669,
+    294,
+    459,
+    312,
+    422,
+    847,
+    828,
+    875,
+    548,
+    647,
+    797,
+    198,
+    586,
+    1221,
+    949,
+    878,
+    218,
+    906,
+    597,
+    319,
+    635
+   ],
+   "rankChange": 1
+  },
+  {
    "name": "MEVX",
    "slug": "mevx",
    "category": "Telegram Bot",
@@ -528,7 +576,7 @@
     539,
     437
    ],
-   "rankChange": 0
+   "rankChange": -2
   },
   {
    "name": "RayBot",
@@ -576,55 +624,7 @@
     145,
     362
    ],
-   "rankChange": 4
-  },
-  {
-   "name": "copyfomo",
-   "slug": "copyfomo",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
-   "twitter": "copytop_",
-   "stale": false,
-   "lastDay": "2026-11-17",
-   "d1": 319,
-   "d1prev": 597,
-   "d7": 5088,
-   "d7prev": 4479,
-   "d30": 17319,
-   "d30prev": 15426,
-   "spark": [
-    892,
-    404,
-    863,
-    310,
-    385,
-    308,
-    387,
-    540,
-    268,
-    392,
-    669,
-    294,
-    459,
-    312,
-    422,
-    847,
-    828,
-    875,
-    548,
-    647,
-    797,
-    198,
-    586,
-    1221,
-    949,
-    878,
-    218,
-    906,
-    597,
-    319
-   ],
-   "rankChange": -3
+   "rankChange": 3
   },
   {
    "name": "Telemetry",
@@ -720,7 +720,7 @@
     320,
     213
    ],
-   "rankChange": -3
+   "rankChange": -4
   },
   {
    "name": "FomoMCP",
