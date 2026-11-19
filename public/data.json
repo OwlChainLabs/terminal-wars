@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T02:37:53.785Z",
+ "updatedAt": "2026-11-19T11:49:42.863Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -9,15 +9,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/axiom",
    "twitter": "AxiomExchange",
    "stale": false,
-   "lastDay": "2026-11-17",
-   "d1": 195554,
-   "d1prev": 248395,
-   "d7": 1521497,
-   "d7prev": 1786145,
-   "d30": 8060067,
-   "d30prev": 15208036,
+   "lastDay": "2026-11-18",
+   "d1": 407430,
+   "d1prev": 195554,
+   "d7": 1592105,
+   "d7prev": 1753881,
+   "d30": 8061256,
+   "d30prev": 15614277,
    "spark": [
-    406241,
     308767,
     438696,
     355565,
@@ -46,7 +45,8 @@
     175591,
     117610,
     248395,
-    195554
+    195554,
+    407430
    ],
    "rankChange": 0
   },
@@ -288,7 +288,7 @@
     4562,
     7412
    ],
-   "rankChange": 0
+   "rankChange": 1
   },
   {
    "name": "Bloom Trading Bot",
@@ -297,15 +297,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
    "twitter": "BloomTrading",
    "stale": false,
-   "lastDay": "2026-11-17",
-   "d1": 5880,
-   "d1prev": 3131,
-   "d7": 21644,
-   "d7prev": 19885,
-   "d30": 49190,
-   "d30prev": 69965.39,
+   "lastDay": "2026-11-18",
+   "d1": 5661,
+   "d1prev": 5880,
+   "d7": 23509,
+   "d7prev": 23681,
+   "d30": 54471,
+   "d30prev": 70345.39,
    "spark": [
-    380,
     165,
     0,
     498,
@@ -334,9 +333,10 @@
     1745,
     1010,
     3131,
-    5880
+    5880,
+    5661
    ],
-   "rankChange": 1
+   "rankChange": -1
   },
   {
    "name": "Maestro",
@@ -384,7 +384,7 @@
     4043,
     4846
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "Ave.ai",
