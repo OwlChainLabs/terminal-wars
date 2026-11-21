@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T11:17:03.541Z",
+ "updatedAt": "2026-11-21T19:24:32.732Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -58,11 +58,11 @@
    "twitter": "fomo",
    "stale": false,
    "lastDay": "2026-11-20",
-   "d1": 150420,
-   "d1prev": 228998,
-   "d7": 1306277,
+   "d1": 150408,
+   "d1prev": 228912,
+   "d7": 1306179,
    "d7prev": 1356365,
-   "d30": 5886504,
+   "d30": 5886406,
    "d30prev": 11831564,
    "spark": [
     237215,
@@ -93,8 +93,8 @@
     161567,
     184148,
     265840,
-    228998,
-    150420
+    228912,
+    150408
    ],
    "rankChange": 0
   },
@@ -288,7 +288,7 @@
     5046,
     4866
    ],
-   "rankChange": 1
+   "rankChange": 0
   },
   {
    "name": "Bloom Trading Bot",
@@ -297,15 +297,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
    "twitter": "BloomTrading",
    "stale": false,
-   "lastDay": "2026-11-19",
-   "d1": 4687,
-   "d1prev": 5661,
-   "d7": 25967,
-   "d7prev": 21048,
-   "d30": 58993,
+   "lastDay": "2026-11-20",
+   "d1": 2278,
+   "d1prev": 4687,
+   "d7": 24392,
+   "d7prev": 22063,
+   "d30": 61271,
    "d30prev": 70510.39,
    "spark": [
-    0,
     498,
     0,
     0,
@@ -334,9 +333,10 @@
     3131,
     5880,
     5661,
-    4687
+    4687,
+    2278
    ],
-   "rankChange": -1
+   "rankChange": 0
   },
   {
    "name": "Maestro",
