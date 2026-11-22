@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T11:36:24.021Z",
+ "updatedAt": "2026-11-22T19:47:14.543Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -58,11 +58,11 @@
    "twitter": "fomo",
    "stale": false,
    "lastDay": "2026-11-21",
-   "d1": 120574,
-   "d1prev": 150408,
-   "d7": 1254848,
+   "d1": 120561,
+   "d1prev": 150299,
+   "d7": 1254726,
    "d7prev": 1342665,
-   "d30": 5769765,
+   "d30": 5769643,
    "d30prev": 11600095,
    "spark": [
     230429,
@@ -93,8 +93,8 @@
     184148,
     265840,
     228912,
-    150408,
-    120574
+    150299,
+    120561
    ],
    "rankChange": 0
   },
@@ -297,15 +297,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
    "twitter": "BloomTrading",
    "stale": false,
-   "lastDay": "2026-11-20",
-   "d1": 2278,
-   "d1prev": 4687,
-   "d7": 24392,
-   "d7prev": 22063,
-   "d30": 61271,
-   "d30prev": 70510.39,
+   "lastDay": "2026-11-21",
+   "d1": 2125,
+   "d1prev": 2278,
+   "d7": 24772,
+   "d7prev": 19767,
+   "d30": 62898,
+   "d30prev": 71008.39,
    "spark": [
-    498,
     0,
     0,
     249,
@@ -334,7 +333,8 @@
     5880,
     5661,
     4687,
-    2278
+    2278,
+    2125
    ],
    "rankChange": 0
   },
