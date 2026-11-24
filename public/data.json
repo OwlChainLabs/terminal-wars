@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T02:16:42.063Z",
+ "updatedAt": "2026-11-24T13:52:46.837Z",
  "source": "defillama, daily revenue, solana chain only",
  "terminals": [
   {
@@ -9,15 +9,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/axiom",
    "twitter": "AxiomExchange",
    "stale": false,
-   "lastDay": "2026-11-22",
-   "d1": 148690,
-   "d1prev": 148591,
-   "d7": 1599526,
-   "d7prev": 1538035,
-   "d30": 7393234,
-   "d30prev": 14229632,
+   "lastDay": "2026-11-23",
+   "d1": 195414,
+   "d1prev": 148690,
+   "d7": 1546545,
+   "d7prev": 1557370,
+   "d30": 7336368,
+   "d30prev": 14481912,
    "spark": [
-    252280,
     262533,
     332516,
     314565,
@@ -46,7 +45,8 @@
     268268,
     182598,
     148591,
-    148690
+    148690,
+    195414
    ],
    "rankChange": 0
   },
@@ -57,15 +57,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/fomo-wallet",
    "twitter": "fomo",
    "stale": false,
-   "lastDay": "2026-11-22",
-   "d1": 117392,
-   "d1prev": 120493,
-   "d7": 1228651,
-   "d7prev": 1292417,
-   "d30": 5656538,
-   "d30prev": 10871538,
+   "lastDay": "2026-11-23",
+   "d1": 125605,
+   "d1prev": 117392,
+   "d7": 1192689,
+   "d7prev": 1282895,
+   "d30": 5583789,
+   "d30prev": 11069892,
    "spark": [
-    198354,
     186147,
     199462,
     193535,
@@ -94,7 +93,8 @@
     228912,
     150299,
     120493,
-    117392
+    117392,
+    125605
    ],
    "rankChange": 0
   },
@@ -243,6 +243,54 @@
    "rankChange": 0
   },
   {
+   "name": "Bloom Trading Bot",
+   "slug": "bloom-trading-bot",
+   "category": "Telegram Bot",
+   "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
+   "twitter": "BloomTrading",
+   "stale": false,
+   "lastDay": "2026-11-23",
+   "d1": 3729,
+   "d1prev": 2388,
+   "d7": 26748,
+   "d7prev": 19254,
+   "d30": 69015,
+   "d30prev": 71008.39,
+   "spark": [
+    249,
+    0,
+    2952,
+    2904,
+    0,
+    0,
+    290,
+    0,
+    68,
+    155,
+    0,
+    4862,
+    2838,
+    4041,
+    2941,
+    1713,
+    3490,
+    3796,
+    2229,
+    3853,
+    1745,
+    1010,
+    3131,
+    5880,
+    5661,
+    4687,
+    2278,
+    2125,
+    2388,
+    3729
+   ],
+   "rankChange": 2
+  },
+  {
    "name": "Photon",
    "slug": "photon",
    "category": "Trading App",
@@ -288,7 +336,7 @@
     3143,
     3665
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "Maestro",
@@ -336,55 +384,7 @@
     2517,
     2510
    ],
-   "rankChange": 0
-  },
-  {
-   "name": "Bloom Trading Bot",
-   "slug": "bloom-trading-bot",
-   "category": "Telegram Bot",
-   "logo": "https://icons.llamao.fi/icons/protocols/bloom-trading-bot",
-   "twitter": "BloomTrading",
-   "stale": false,
-   "lastDay": "2026-11-22",
-   "d1": 2388,
-   "d1prev": 2125,
-   "d7": 26150,
-   "d7prev": 17836,
-   "d30": 65286,
-   "d30prev": 71008.39,
-   "spark": [
-    0,
-    249,
-    0,
-    2952,
-    2904,
-    0,
-    0,
-    290,
-    0,
-    68,
-    155,
-    0,
-    4862,
-    2838,
-    4041,
-    2941,
-    1713,
-    3490,
-    3796,
-    2229,
-    3853,
-    1745,
-    1010,
-    3131,
-    5880,
-    5661,
-    4687,
-    2278,
-    2125,
-    2388
-   ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "Ave.ai",
@@ -432,7 +432,7 @@
     624,
     728
    ],
-   "rankChange": 0
+   "rankChange": 1
   },
   {
    "name": "copyfomo",
@@ -441,15 +441,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/copyfomo",
    "twitter": "copytop_",
    "stale": false,
-   "lastDay": "2026-11-22",
-   "d1": 628,
-   "d1prev": 530,
-   "d7": 3890,
-   "d7prev": 4956,
-   "d30": 17439,
-   "d30prev": 17873,
+   "lastDay": "2026-11-23",
+   "d1": 400,
+   "d1prev": 628,
+   "d7": 3693,
+   "d7prev": 5355,
+   "d30": 17531,
+   "d30prev": 18181,
    "spark": [
-    308,
     387,
     540,
     268,
@@ -478,9 +477,10 @@
     618,
     563,
     530,
-    628
+    628,
+    400
    ],
-   "rankChange": 0
+   "rankChange": -1
   },
   {
    "name": "SolTradingBot",
@@ -920,15 +920,14 @@
    "logo": "https://icons.llamao.fi/icons/protocols/moonshot.money",
    "twitter": "moonshot",
    "stale": false,
-   "lastDay": "2026-11-22",
+   "lastDay": "2026-11-23",
    "d1": 0,
    "d1prev": 0,
    "d7": 0,
    "d7prev": 0.19,
-   "d30": 26026.23,
-   "d30prev": 127181,
+   "d30": 18300.23,
+   "d30prev": 134907,
    "spark": [
-    7726,
     2143,
     2472,
     1704,
@@ -948,6 +947,7 @@
     0,
     0,
     0.19,
+    0,
     0,
     0,
     0,
